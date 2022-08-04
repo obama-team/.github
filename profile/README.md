@@ -1,6 +1,6 @@
 <div align="center">
     <br>
-    <img src="https://cdn.discordapp.com/attachments/860740575154274326/860759236215963658/President_Barack_Obama.jpg" height="300" align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg" height="300" align="center">
     <br>
     <h1>obama</h1>
     <p>
