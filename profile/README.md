@@ -4,6 +4,6 @@
     <br>
     <h1>obama</h1>
     <p>
-        <a href="https://discord.gg/obama"><img src="https://img.shields.io/discord/812423407059861564?color=5162F1&style=for-the-badge&logo=discord&logoColor=white"></a>
+        <a href="https://discord.gg/obama"><img src="https://img.shields.io/discord/812423407059861564?color=5162F1&style=for-the-badge&logo=discord&logoColor=white&label=obama"></a>
     </p>
 </div>
